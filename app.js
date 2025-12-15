@@ -5,7 +5,7 @@ window.addEventListener("load", () => {
   const links = document.querySelectorAll(".link-btn");
   const footer = document.querySelector("footer");
 
-  // Load animatsiya
+  // Load animation
   setTimeout(() => {
     logo.style.opacity = "1";
     logo.style.transform = "scale(1)";
